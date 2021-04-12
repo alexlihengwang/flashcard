@@ -2,7 +2,8 @@
 
 ## Options
 
-|----|----|
+| Flags | Description |
+|---|---|
 |`--stats` | Print stats at beginning of session|
 |`--sched` | Print upcoming schedule at beginning of session |
 |`-v` | Print debug messages|
