@@ -15,7 +15,7 @@
 
 To run this script, you will need the lexicon saved as `word_data.txt` within the same directory as the script.
 
-`word_data.txt` should contain a single JSON object of the form:
+`word_data.txt` should contain a single JSON object with the following format:
 
 ```JSON
 {
